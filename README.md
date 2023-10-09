@@ -1,2 +1,2 @@
-# Calculator
+# Landing page
 Web Development
